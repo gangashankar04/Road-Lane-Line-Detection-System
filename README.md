@@ -6,7 +6,7 @@ Road Lane Detection requires to detection of the path of self-driving cars and a
 
 1.Driving on the right side of a two-lane road (see the image for an example)
 
-![ROADLANEEXAMPLE_000](https://github.com/gangashankar04/Road-Lane-Line-Detection-System/assets/170317051/04702df3-6ba0-4291-89fd-cd0ec30ad2da)
+![rllds](https://github.com/gangashankar04/Road-Lane-Line-Detection-System/assets/170317051/fdcefb16-c75e-4449-8b0c-ba6348f4996e)
 
 
 2.Driving during daylight; due to limitations on a sufficient quality video, night time conditions were not tested.
